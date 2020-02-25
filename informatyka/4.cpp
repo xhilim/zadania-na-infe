@@ -9,7 +9,7 @@
 //
 // Dla pliku dane.txt z zawartością zgodną z tym w tym repozytorium
 // prawidłowym wyniekiem jest plik zawierający 100 słów "Tuesday"
-
+///zrobione przez pana Kwiatka
 #include <iostream>
 #include <fstream>
 #include <string>
