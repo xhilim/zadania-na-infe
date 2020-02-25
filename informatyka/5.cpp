@@ -9,6 +9,7 @@
 // Dla pliku dane.txt z zawartością zgodną z tym w tym repozytorium
 // prawidłowym wynikiem jest plik "wynik.txt" zawierający 232 daty spełniające warunek
 
+///stworzone przez pana Kwiatka
 
 #include <iostream>
 #include <fstream>
